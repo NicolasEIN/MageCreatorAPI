@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "MageCreatorAPI.Controllers.MagicianController",
+    "Method": "GetAllMages",
+    "RelativePath": "api/Magician",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MageCreatorAPI.Models.Magician, MageCreatorAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MageCreatorAPI.Controllers.MagicianController",
+    "Method": "AddMage",
+    "RelativePath": "api/Magician",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mage",
+        "Type": "MageCreatorAPI.Models.Magician",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MageCreatorAPI.Controllers.MagicianController",
+    "Method": "GetSingleMage",
+    "RelativePath": "api/Magician/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MageCreatorAPI.Controllers.MagicianController",
+    "Method": "UpdateMage",
+    "RelativePath": "api/Magician/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Request",
+        "Type": "MageCreatorAPI.Models.Magician",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MageCreatorAPI.Controllers.MagicianController",
+    "Method": "DeleteMage",
+    "RelativePath": "api/Magician/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

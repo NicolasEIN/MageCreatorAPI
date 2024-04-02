@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|d:\\projetos\\projetosweb\\mageapi\\magecreatorapi\\services\\mageservices\\mageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|solutionrelative:services\\mageservices\\mageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|d:\\projetos\\projetosweb\\mageapi\\magecreatorapi\\controllers\\magiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|solutionrelative:controllers\\magiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|d:\\projetos\\projetosweb\\mageapi\\magecreatorapi\\datacontext\\magedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|solutionrelative:datacontext\\magedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|d:\\projetos\\projetosweb\\mageapi\\magecreatorapi\\services\\mageservices\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCE4778-C309-4E0E-B5C6-6AAF2B3A39D6}|MageCreatorAPI.csproj|solutionrelative:services\\mageservices\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MageData.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\DataContext\\MageData.cs",
+              "RelativeDocumentMoniker": "DataContext\\MageData.cs",
+              "ToolTip": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\DataContext\\MageData.cs",
+              "RelativeToolTip": "DataContext\\MageData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:52:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMageService.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\Services\\MageServices\\IMageService.cs",
+              "RelativeDocumentMoniker": "Services\\MageServices\\IMageService.cs",
+              "ToolTip": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\Services\\MageServices\\IMageService.cs",
+              "RelativeToolTip": "Services\\MageServices\\IMageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:38:11.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MagicianController.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\Controllers\\MagicianController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MagicianController.cs",
+              "ToolTip": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\Controllers\\MagicianController.cs",
+              "RelativeToolTip": "Controllers\\MagicianController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:36:55.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MageServices.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\Services\\MageServices\\MageServices.cs",
+              "RelativeDocumentMoniker": "Services\\MageServices\\MageServices.cs",
+              "ToolTip": "D:\\Projetos\\ProjetosWeb\\MageAPI\\MageCreatorAPI\\Services\\MageServices\\MageServices.cs",
+              "RelativeToolTip": "Services\\MageServices\\MageServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:57:52.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
